@@ -1,0 +1,4 @@
+baseURL = 'https://heitepriem.dev/'
+languageCode = 'de-DE'
+title = 'Daniel Heitepriem'
+theme = 'hugo-coder'
