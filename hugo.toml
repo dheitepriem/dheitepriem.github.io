@@ -1,0 +1,4 @@
+baseURL = 'https://heitepriem.dev/'
+languageCode = 'en-us'
+title = 'My New Site'
+theme = 'hugo-coder'
