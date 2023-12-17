@@ -14,7 +14,7 @@ style = "github-dark"
   info = "DevOps Engineer"
   description = "Daniel Heitepriem's personal website"
   keywords = "developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/avatar.png"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
