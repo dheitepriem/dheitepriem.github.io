@@ -48,6 +48,7 @@ defaultcontentlanguage = "en"
   url = "https://github.com/dheitepriem/"
 
 # Menu links
+
 #[[menu.main]]
 #  name = "Blog"
 #  weight = 1
