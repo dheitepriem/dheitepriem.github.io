@@ -14,7 +14,7 @@ defaultcontentlanguage = "en"
 [params]
   author = "Daniel Heitepriem"
   info = "DevOps / Cloud Platform Engineer"
-  description = "Daniel Heitepriem's personal website"
+  description = "Daniel Heitepriem personal website"
   keywords = "developer,personal"
   avatarurl = "images/avatar.png"
   #gravatar = "john.doe@example.com"
@@ -52,10 +52,12 @@ defaultcontentlanguage = "en"
 #  name = "Blog"
 #  weight = 1
 #  url  = "posts/"
+
 [[menu.main]]
   name = "About"
   weight = 1
   url = "about/"
+
 [[menu.main]]
 name = "Contact me"
 weight = 5
