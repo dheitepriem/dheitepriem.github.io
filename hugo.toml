@@ -4,10 +4,12 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
+# Define the number of posts per page
+[pagination]
+  pagerSize = 20
 
 [markup.highlight]
-style = "github-dark"
+  style = "github-dark"
 
 [params]
   author = "Daniel Heitepriem"
