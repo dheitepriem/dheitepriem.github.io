@@ -13,7 +13,7 @@ defaultcontentlanguage = "en"
 
 [params]
   author = "Daniel Heitepriem"
-  info = "DevOps Engineer"
+  info = "DevOps / Cloud Platform Engineer"
   description = "Daniel Heitepriem's personal website"
   keywords = "developer,personal"
   avatarurl = "images/avatar.png"
